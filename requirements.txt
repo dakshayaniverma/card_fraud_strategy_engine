@@ -1,0 +1,7 @@
+# Lean set for the Streamlit app (Streamlit Community Cloud reads this file)
+streamlit>=1.40
+pandas>=2.2
+numpy>=1.26
+plotly>=5.24
+networkx>=3.3
+pyarrow>=16

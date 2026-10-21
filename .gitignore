@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+data/raw/
+data/demo/
+*.pyc
+.DS_Store
+artifacts_demo/
+pipeline_run.log
+.pytest_cache/
+.agents/
+.claude/
