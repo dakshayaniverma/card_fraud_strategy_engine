@@ -1,5 +1,7 @@
 # Card Fraud Strategy Engine
 
+**Live demo: https://card-fraud-strategy.streamlit.app**  (strategy simulator, case investigation, monitoring)
+
 > For each card transaction: **approve, step up (OTP), or decline**, and what is the **net dollar impact** of that strategy?
 
 An end-to-end card-fraud decisioning project: SQL feature layer, card-to-merchant graph analysis
